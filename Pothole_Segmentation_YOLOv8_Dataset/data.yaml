@@ -1,0 +1,6 @@
+path: /content/gdrive/MyDrive/Image_Segmentation_By_YOLOv8/Image_Segmentation_Dataset
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['Pothole']

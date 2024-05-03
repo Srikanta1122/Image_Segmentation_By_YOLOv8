@@ -1,0 +1,6 @@
+path: D:\Image_Segmentation_By_YOLOV8\Pothole_Segmentation_YOLOv8_Dataset
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['Pothole']
